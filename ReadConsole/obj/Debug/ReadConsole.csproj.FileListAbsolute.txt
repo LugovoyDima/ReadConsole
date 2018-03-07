@@ -1,0 +1,21 @@
+C:\Users\Student\Documents\Visual Studio 2015\sannikov\ReadConsole\ReadConsole\bin\Debug\ReadConsole.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\sannikov\ReadConsole\ReadConsole\obj\Debug\ReadConsole.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\sannikov\ReadConsole\ReadConsole\bin\Debug\ReadConsole.exe
+C:\Users\Student\Documents\Visual Studio 2015\sannikov\ReadConsole\ReadConsole\bin\Debug\ReadConsole.pdb
+C:\Users\Student\Documents\Visual Studio 2015\sannikov\ReadConsole\ReadConsole\obj\Debug\ReadConsole.exe
+C:\Users\Student\Documents\Visual Studio 2015\sannikov\ReadConsole\ReadConsole\obj\Debug\ReadConsole.pdb
+F:\ReadConsole\ReadConsole\bin\Debug\ReadConsole.exe.config
+F:\ReadConsole\ReadConsole\obj\Debug\ReadConsole.exe
+F:\ReadConsole\ReadConsole\obj\Debug\ReadConsole.pdb
+F:\ReadConsole\ReadConsole\obj\Debug\ReadConsole.csprojResolveAssemblyReference.cache
+F:\ReadConsole\ReadConsole\bin\Debug\ReadConsole.exe
+F:\ReadConsole\ReadConsole\bin\Debug\ReadConsole.pdb
+F:\ReadConsole\ReadConsole\bin\Debug\mscorlib.dll
+F:\ReadConsole\ReadConsole\bin\Debug\normidna.nlp
+F:\ReadConsole\ReadConsole\bin\Debug\normnfc.nlp
+F:\ReadConsole\ReadConsole\bin\Debug\normnfd.nlp
+F:\ReadConsole\ReadConsole\bin\Debug\normnfkc.nlp
+F:\ReadConsole\ReadConsole\bin\Debug\normnfkd.nlp
+E:\ReadConsole\ReadConsole\bin\Debug\ReadConsole.exe.config
+E:\ReadConsole\ReadConsole\obj\Debug\ReadConsole.exe
+E:\ReadConsole\ReadConsole\obj\Debug\ReadConsole.pdb
